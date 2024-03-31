@@ -1,0 +1,6 @@
+/dev
+/.vscode
+/__pycache__
+/received
+/uploads
+.env
